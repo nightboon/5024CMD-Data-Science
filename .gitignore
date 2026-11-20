@@ -1,0 +1,24 @@
+# Generated artifacts (rebuilt automatically when running analysis.ipynb)
+loan_project.db
+model_selection.json
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS & Office temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Local secrets / env files
+.env
+.env.*

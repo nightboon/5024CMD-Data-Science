@@ -1,0 +1,3 @@
+# Preserve exact bytes of loan_data.csv so SHA-256 verification succeeds across platforms
+data/loan_data.csv binary
+*.png binary
